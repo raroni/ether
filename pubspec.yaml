@@ -1,0 +1,6 @@
+name: ether
+description: A sample web application
+dependencies:
+  browser: any
+  voya:
+    path: /Users/rasmus/playground/dart/voya
