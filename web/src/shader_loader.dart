@@ -4,7 +4,7 @@ class ShaderLoader {
   final Async.Completer completer = new Async.Completer();
   Async.Future future;
   final String name;
-  final Voya.ShaderProgramManager programManager;
+  final Samba.ShaderProgramManager programManager;
   
   ShaderLoader(this.programManager, this.name) {
     future = completer.future;

@@ -1,6 +1,6 @@
 library ether;
 
-import 'package:voya/voya.dart' as Voya;
+import 'package:samba/samba.dart' as Samba;
 import 'dart:html' as HTML;
 import 'dart:async' as Async;
 

@@ -5,9 +5,9 @@ packages:
     description: browser
     source: hosted
     version: "0.9.0"
-  voya:
+  samba:
     description:
-      path: "/Users/rasmus/playground/dart/voya"
+      path: "/Users/rasmus/playground/dart/samba"
       relative: false
     source: path
     version: "0.0.0"
